@@ -2,7 +2,7 @@
 title: 'Tarea 4 [Actividad grupal]: ggplot'
 author: "Diego Morante & Benjy Velasquez"
 date: "21/1/2022"
-output: html_document
+output: github_document
 ---
 
 

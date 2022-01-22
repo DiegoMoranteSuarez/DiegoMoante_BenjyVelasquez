@@ -2,7 +2,7 @@
 title: 'Tarea 3 [Actividad grupal]: dplyr'
 author: "Velasquez_Fernandez_Benjy&Morante_Suarez_Diego"
 date: "14/1/2022"
-output: html_document
+output: github_document
 ---
 # EJERCICIOS: tidyverse
 install.packages("nycflights13")
